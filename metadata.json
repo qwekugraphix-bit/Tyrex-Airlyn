@@ -1,0 +1,6 @@
+{
+  "name": "Tyrex Airline — Aviation & Booking Platform",
+  "description": "Connecting People. Connecting Destinations. Official booking platform and flight management portal for Tyrex Airline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
